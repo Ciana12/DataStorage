@@ -1,2 +1,2 @@
 # DataStorage
-full data storage here
+data & code will be storage here
